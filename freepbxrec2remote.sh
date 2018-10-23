@@ -1,6 +1,5 @@
 #!/bin/bash
 RELEASE="Version 1"
-AUTHOR="sujithar37@gmail.com"
 PROGNAME="freepbxr2c"
 
 #set -x
