@@ -178,14 +178,6 @@ case $1 in
      ARGSALL=${@:2}
      sip_registry_status
      ;;
-  httpd)
-     ARGS1=$1
-     service_check
-     ;;
-  asterisk)
-     ARGS1=$1
-     service_check
-     ;;
   service)
      ARGS2=$2
      service_check
